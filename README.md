@@ -17,8 +17,10 @@
           <br/><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
           </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 On Going Projects </h2> <br> 
-    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
-          fdasfdsafsafsfdasfdas
+    <div style="margin: ; text-align: left;" "text-align: left;">
+            🔋 이미지화를 통한 충전 패턴 클러스터링 (Private Research Project)<br>
+            🏥 난소암 (Private Research Project)
+        
           </div>
     </div>
     <div style="text-align: left;">
