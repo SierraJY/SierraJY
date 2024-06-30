@@ -20,9 +20,9 @@
     <div style="margin: ; text-align: left;" "text-align: left;">
             🔋 이미지화를 통한 충전 패턴 클러스터링 (Private Research Project)<br>
             🏥 난소암 (Private Research Project)
-        
           </div>
     </div>
+    
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;"> <a href=mailto:wndus51445@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:wndus51445@gmail.com"> </a>
