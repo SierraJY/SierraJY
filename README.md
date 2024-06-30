@@ -14,9 +14,8 @@
         <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
           <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
-          
-          </div>
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></div>
+        
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 On Going Projects </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;">
             🎓 SJU TEED Lab (2023/11 ~ ) <br>
