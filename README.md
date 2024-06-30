@@ -25,6 +25,7 @@
     🔋 후속연구 - 이미지화를 통한 충전 패턴 클러스터링 (2024/5 ~ ) (SJU TEED Lab & LG Energy Solution <b>Private Research Project</b>)<br> 
     🏥 후속연구 - 난소암 재발 인자 (2024/8 ~ )(SJU TEED Lab & 세브란스 <b>Private Research Project</b>)<br>
     💻 Program&hackathon - LG Aimers (2024/7 ~ 2024/8)
+    💻 Conference - LG 에너지 솔루션 산학협력 컨퍼런스 포스터 발표 참여 (2024/7/15)
 </div>
 
 <div style="text-align: left;">
