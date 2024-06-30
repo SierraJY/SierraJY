@@ -20,10 +20,10 @@
 </div>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 On Going Projects </h2> <br> 
 <div style="margin: ; text-align: left;">
-    🎓 SJU TEED Lab (2023/11 ~ ) <br>
+    🎓 SJU TEED Lab. (2023/11 ~ ) <br>
     🔋 개인 연구 - Multi-Head Attention Layer를 활용한 배터리 용량 예측 (2024/2 ~ 8) <br>
-    🔋 후속연구 - 이미지화를 통한 충전 패턴 클러스터링 (2024/5 ~ ) (SJU TEED Lab & LG Energy Solution) <b>(⚠️Private Research Project - No Github </b>)<br>
-    🏥 후속연구 - 난소암 재발 인자 (2024/8 ~ )(SJU TEED Lab & 세브란스) <b>(⚠️Private Research Project - No Github </b>)<br>
+    🔋 후속연구 - 이미지화를 통한 충전 패턴 클러스터링 (2024/5 ~ ) (SJU TEED Lab. & LG Energy Solution) <b>(⚠️Private Research Project - No Github </b>)<br>
+    🏥 후속연구 - 난소암 재발 인자 (2024/8 ~ )(SJU TEED Lab. & 세브란스) <b>(⚠️Private Research Project - No Github </b>)<br>
     💻 Program&hackathon - LG Aimers (2024/7 ~ 2024/8)<br>
     💻 Conference - LG 에너지 솔루션 산학협력 컨퍼런스 포스터 발표 참여 (2024/7/15)
 </div>
