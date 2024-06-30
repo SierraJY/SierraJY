@@ -21,6 +21,6 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 On Going Projects </h2> <br> 
 <div style="margin: ; text-align: left;">
     🎓 SJU TEED Lab (2023/11 ~ ) <br>
-    🔋 이미지화를 통한 충전 패턴 클러스터링 (SJU TEED Lab & LG Energy Solution ** Private Research Project **)<br> 
-    🏥 난소암 재발 인자 (SJU TEED Lab & 세브란스 ** Private Research Project **)<br>
+    🔋 이미지화를 통한 충전 패턴 클러스터링 (SJU TEED Lab & LG Energy Solution **Private Research Project**)<br> 
+    🏥 난소암 재발 인자 (SJU TEED Lab & 세브란스 **Private Research Project**)<br>
 </div>
