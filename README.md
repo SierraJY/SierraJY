@@ -18,7 +18,8 @@
           </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 On Going Projects </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;">
-            🔋 이미지화를 통한 충전 패턴 클러스터링 (Private Research Project)<br>
-            🏥 난소암 (Private Research Project)
+            🎓 SJU TEED Lab - 
+            🔋 이미지화를 통한 충전 패턴 클러스터링 (SJU TEED Lab - Private Research Project)<br>
+            🏥 난소암 (SJU TEED Lab - Private Research Project)
           </div>
     
