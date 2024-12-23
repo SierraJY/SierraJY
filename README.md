@@ -21,6 +21,7 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 On Going Projects </h2> <br> 
 <div style="margin: ; text-align: left;">
     🎓 SJU TEED Lab. (2023/11 ~ 2024/8) <br>
+    💡 창업 - 아마추어 야구를 위한 LiDAR ABS(Grabs) (2024) <br>
     🔋 개인 연구 - Multi-Head Attention Layer를 활용한 배터리 용량 예측 (2024/2 ~ 8) <br>
     🔋 후속 연구 참여 - 이미지화를 통한 충전 패턴 클러스터링 (2024/5 ~ 2024/8) (SJU TEED Lab.) <b>(⚠️Private Research Project - No Github </b>)<br>
     💻 Program&hackathon - LG Aimers (2024/7 ~ 2024/8)<br>
