@@ -19,6 +19,7 @@
         <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
     </div>
 </div>
+<br>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 On Going Projects </h2> <br> 
 <div style="margin: ; text-align: left;">
     🎓 SJU TEED Lab. (2023/11 ~ 2024/8) <br>
@@ -28,7 +29,7 @@
     💻 Program&hackathon - LG Aimers (2024/7 ~ 2024/8)<br>
     💻 Conference - LG 에너지 솔루션 산학협력 컨퍼런스 포스터 발표 참여 (2024/7/15)
 </div>
-
+<br>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div style="text-align: left;">  mail : wndus51445@gmail.com </div>  <br> 
