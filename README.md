@@ -4,7 +4,7 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🙋🏻‍♂️SierraJY(JuYeon Park)</h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 
-        데이터사이언스&딥러닝 기술을 여러 도메인에 적용하려 노력 중입니다! 
+        **데이터사이언스&딥러닝 기술을 여러 도메인에 적용하려 노력 중입니다! **
     </div> 
 </div>
 <div style="text-align: left;">
@@ -30,7 +30,7 @@
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;">  </div>  <br> 
+    <div style="text-align: left;">  mail : wndus51445@gmail.com </div>  <br> 
     <div style="text-align: left;"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSierraJY%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
        </div> 
     </div>
