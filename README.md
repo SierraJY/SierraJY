@@ -24,10 +24,8 @@
     <img src="https://img.shields.io/badge/IEEE%20-00629B?style=flat&logoColor=white"> Detailed Architectural Design of a Multi-Head Self-Attention Model for Lithium-Ion Battery Capacity Forecasting(2024/2 ~ 8)<br>
     <img src="https://img.shields.io/badge/ICCE%20-00629B?style=flat&logoColor=white"> Conference - Representative Charging Patterns for Electric Vehicles Using Image Clustering Algorithms(2024/12/10)<br>
     <img src="https://img.shields.io/badge/LG-ED1C24?style=flat&logoColor=white">LG 에너지솔루션 제2회 산학협력 컨퍼런스 포스터 발표 참여 (2024/7/15)<br>
-    <img src="https://img.shields.io/badge/LG-ED1C24?style=flat&logoColor=white">LG 에너지솔루션 산학협력 - 이미지화를 통한 충전 패턴 클러스터링 ( ~ 2024/8) (⚠️Private Research Project)<br>
+    <img src="https://img.shields.io/badge/LG-ED1C24?style=flat&logoColor=white">LG 에너지솔루션 산학협력 - 이미지화를 통한 충전 패턴 클러스터링 ( ~ 2024/8) (SJU Teed Lab.) (⚠️Private Research Project)<br>
     💡 특허&창업 - 아마추어 야구를 위한 LiDAR ABS(Grabs) (2024~suspended) (🏆 Award) (⚠️Private Code - Only PT) <br>
-
-    💻 Program&hackathon - LG Aimers (2024/7 ~ 2024/8)<br>
 </div>
 <br>
 <div style="text-align: left;">
