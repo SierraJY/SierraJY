@@ -1,14 +1,14 @@
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=SierraJY's%20Projects&animation=&fontColor=ffffff&fontSize=60" />
 </div>
-<div style="text-align: left;"> 
+<!-- <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🙋🏻‍♂️SierraJY(JuYeon Park)</h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">
         <b>데이터사이언스&딥러닝 기술을 여러 도메인에 적용하려 노력 중입니다!</b>
         <!-- IEEE Author Profile Link -->
 </div>
 <br>
-<br>
+<br> -->
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 Experience </h2> <br> 
 <div style="margin: ; text-align: left;">
     <img src="https://img.shields.io/badge/Samsung-1428A0?style=flat&logoColor=white"> <b>Samsung Software Academy For Youth - Data 특화 Track<b> (2025/01~🏃🏻‍♂️‍➡️)<br>
