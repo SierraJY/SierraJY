@@ -7,6 +7,7 @@
         <b>데이터사이언스&딥러닝 기술을 여러 도메인에 적용하려 노력 중입니다!</b>
         <!-- IEEE Author Profile Link -->
 <div style="margin-top: 5px;">
+    <b>Articles -></b>
     <a href="https://ieeexplore.ieee.org/author/885049052324059" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/IEEE%20Author-00629B?style=flat&logoColor=white">
     </a>
