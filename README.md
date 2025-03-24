@@ -16,11 +16,11 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 Projects </h2> <br> 
 <div style="margin: ; text-align: left;">
     <div style="margin-top: 5px;">
-    <b>Articles : </b>
+    <b> IEEE Articles Link: </b>
     <a href="https://ieeexplore.ieee.org/author/885049052324059" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/IEEE%20Author-00629B?style=flat&logoColor=white">
     </a>
-</div>
+</div><br>
     <img src="https://img.shields.io/badge/IEEE%20-00629B?style=flat&logoColor=white"> Detailed Architectural Design of a Multi-Head Self-Attention Model for Lithium-Ion Battery Capacity Forecasting(2024/2 ~ 8)<br>
     <img src="https://img.shields.io/badge/ICCE%20-00629B?style=flat&logoColor=white"> Conference - Representative Charging Patterns for Electric Vehicles Using Image Clustering Algorithms(2024/12/10)<br>
     <img src="https://img.shields.io/badge/LG-ED1C24?style=flat&logoColor=white">LG 에너지솔루션 제2회 산학협력 컨퍼런스 포스터 발표 참여 (2024/7/15)<br>
