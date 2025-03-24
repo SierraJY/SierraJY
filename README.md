@@ -15,7 +15,7 @@
 </div>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 Projects </h2> <br> 
 <div style="margin: ; text-align: left;">
-    🖌️ Detailed Architectural Design of a Multi-Head Self-Attention Model for Lithium-Ion Battery Capacity Forecasting(2024/2 ~ 8)  (<img src="https://img.shields.io/badge/IEEE%20Access-00629B?style=flat&logoColor=white"> Accepted!!)<br>
+    <img src="https://img.shields.io/badge/IEEE%20-00629B?style=flat&logoColor=white"> Detailed Architectural Design of a Multi-Head Self-Attention Model for Lithium-Ion Battery Capacity Forecasting(2024/2 ~ 8)  (Accepted!)<br>
     🖌️ Conference - LG 에너지 솔루션 산학협력 컨퍼런스 포스터 발표 참여 (2024/7/15) (⚠️Private Code)
     🖌️ Conference - Representative Charging Patterns for Electric Vehicles Using Image Clustering Algorithms(2024/12/10)
     
