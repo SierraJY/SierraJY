@@ -11,8 +11,6 @@
         <img src="https://img.shields.io/badge/IEEE%20Author-00629B?style=flat&logoColor=white">
     </a>
 </div>
-
-    </div> 
 </div>
 <br>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 Experience </h2> <br> 
