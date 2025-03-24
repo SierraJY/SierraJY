@@ -8,11 +8,12 @@
         <!-- IEEE Author Profile Link -->
 </div>
 <br>
+<br>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 Experience </h2> <br> 
 <div style="margin: ; text-align: left;">
     <img src="https://img.shields.io/badge/Samsung-1428A0?style=flat&logoColor=white"> Samsung Software Academy For Youth - Data 특화 Track (2025/01~🏃🏻‍♂️‍➡️)<br>
     🎓 SJU TEED Lab. (2023/10 ~ 2024/9) <br>
-</div>
+</div><br>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 Projects </h2> <br> 
 <div style="margin: ; text-align: left;">
     <div style="margin-top: 5px;">
@@ -27,6 +28,7 @@
     <img src="https://img.shields.io/badge/LG-ED1C24?style=flat&logoColor=white">LG 에너지솔루션 산학협력 - 이미지화를 통한 충전 패턴 클러스터링 ( ~ 2024/8) (SJU Teed Lab.) (⚠️Private Research Project)<br>
     💡 특허&창업 - 아마추어 야구를 위한 LiDAR ABS(Grabs) (2024~suspended) (🏆 Award) (⚠️Private Code - Only PT) <br>
 </div>
+<br>
 <br>
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
