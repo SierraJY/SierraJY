@@ -16,8 +16,8 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 Projects </h2> <br> 
 <div style="margin: ; text-align: left;">
     <img src="https://img.shields.io/badge/IEEE%20-00629B?style=flat&logoColor=white"> Detailed Architectural Design of a Multi-Head Self-Attention Model for Lithium-Ion Battery Capacity Forecasting(2024/2 ~ 8)  (Accepted!)<br>
+    <img src="https://img.shields.io/badge/ICCE%20-00629B?style=flat&logoColor=white"> Conference - Representative Charging Patterns for Electric Vehicles Using Image Clustering Algorithms(2024/12/10)<br>
     🖌️ Conference - LG 에너지 솔루션 산학협력 컨퍼런스 포스터 발표 참여 (2024/7/15) (⚠️Private Code)<br>
-    🖌️ Conference - Representative Charging Patterns for Electric Vehicles Using Image Clustering Algorithms(2024/12/10)<br>
     💡 특허&창업 - 아마추어 야구를 위한 LiDAR ABS(Grabs) (2024)(🏆 Award) (⚠️Private Code - Only PT) <br>
     🔋 후속 연구 참여 - 이미지화를 통한 충전 패턴 클러스터링 (2024/5 ~ 2024/8) (SJU TEED Lab.) <b>(⚠️Private Research Project - No Github)</b><br>
     💻 Program&hackathon - LG Aimers (2024/7 ~ 2024/8)<br>
