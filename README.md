@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=JuYeon Park&animation=&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=JuYeon%20Park&animation=&fontColor=ffffff&fontSize=60" />
 </div>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 Experience </h2> <br> 
 <div style="margin: ; text-align: left;">
