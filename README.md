@@ -36,7 +36,6 @@
     <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white">
     <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white">
     <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat&logo=apacheflink&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
 </div>
   <br>
   <!-- Front & Back -->
@@ -49,10 +48,11 @@
   <!-- Tools -->
   <div>
     <strong style="font-size: 16px;">🧰 Tools</strong><br><br>
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white">
+    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
   </div>
 </div>
 
