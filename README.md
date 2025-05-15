@@ -36,6 +36,7 @@
     <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white">
     <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white">
     <img src="https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat&logo=apacheflink&logoColor=white">
+    <img src="https://img.shields.io/badge/Elasticsearch-?style=flat&logo=elasticsearch&logoColor=white">
 </div>
   <br>
   <!-- Front & Back -->
