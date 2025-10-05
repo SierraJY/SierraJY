@@ -3,9 +3,10 @@
 </div>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 Experience </h2> <br> 
 <div style="margin: ; text-align: left;">
-    <img src="https://img.shields.io/badge/Samsung-1428A0?style=flat&logoColor=white"> <b>Samsung Software Academy For Youth - Data 특화 Track<b> (2025/01~🏃🏻‍♂️‍➡️)<br>
+    <b>BigValue (job : Data Engineer)<b> (2025/09~)<br>
+    <b>Samsung Software Academy For Youth - Data 특화 Track<b> (2025/01~2025/09)<br>
         <br>
-    🎓 <b>SJU TEED Lab.</b> (2023/10 ~ 2024/9) <br>
+    <b>SJU TEED Lab.</b> (2023/10 ~ 2024/9) <br>
 </div><br>
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 Projects </h2> <br> 
 <div style="margin: ; text-align: left;">
